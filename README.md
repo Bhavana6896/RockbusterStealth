@@ -19,11 +19,13 @@ Tools used
 - Tableau Public: Platform for creating and sharing interactive data visualizations.
 
 Data Overview
-The Rockbuster Stealth dataset contains information about the company’s film inventory, customers, rental activity, and payment history. Key tables include:
+The Rockbuster Stealth dataset contains information about the company’s film inventory, customers, rental activity, and payment history. 
 
-Film Data: Details on movie titles, genres, languages, and rental durations.
-Inventory Data: Information about which films are available at each store.
-Customer Data: Customer profiles, locations, and account details.
-Rental Data: Records of rental transactions, including rental dates and return dates.
-Payment Data: Payment amounts and dates associated with each rental.
-Staff & Store Data: Information on store locations and employees.
+Key tables include:
+
+- Film Data: Details on movie titles, genres, languages, and rental durations.
+- Inventory Data: Information about which films are available at each store.
+- Customer Data: Customer profiles, locations, and account details.
+- Rental Data: Records of rental transactions, including rental dates and return dates.
+- Payment Data: Payment amounts and dates associated with each rental.
+- Staff & Store Data: Information on store locations and employees.
